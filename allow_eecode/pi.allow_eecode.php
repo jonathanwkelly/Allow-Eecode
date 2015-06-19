@@ -114,7 +114,7 @@ class Allow_eecode {
 	 * @access	public
 	 * @return	string
 	 */
-	function usage()
+	static function usage()
 	{
 
 		ob_start(); 
